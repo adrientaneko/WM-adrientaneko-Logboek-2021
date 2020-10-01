@@ -3,7 +3,7 @@ Naam docent : Stevens Ophalvens
 
 # Logboek Web & Mobile - Adrien Taneko
 
-## Week 1 - XXX uur
+## Week 1 - 4.75 uur
 
 * Inhalen van inleiding
     * Slides overlopen : 0.25 uur
@@ -12,10 +12,12 @@ Naam docent : Stevens Ophalvens
 * Inhalen van les O1
     * Slides overlopen : 0.5 uur
     * Aanvraag van campbell domein : O.25 uur
-    * Configuratie van domein : 0.25 uur
-    * PhpMyAdmin Oefeningen maken : 0.5 uur
+    * Configuratie van domein + databank : 0.5 uur
     * link met fileZilla (niet gelukt) : 0.5 uur
     * Php Tutorials : 1 uur
+    * Oefeningen maken : 1 uur
+
+## Week 2 - XXX uur
 
 
 Totale duur : XXX uur
