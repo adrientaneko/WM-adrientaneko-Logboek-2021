@@ -1,7 +1,9 @@
 # WM-adrientaneko-Logboek-2021
 Naam docent : Stevens Ophalvens
+Domein naam : http://wm-mastering.be
 
 # Logboek Web & Mobile - Adrien Taneko
+
 
 ## Week 1 - 4.75 uur
 
@@ -18,6 +20,7 @@ Naam docent : Stevens Ophalvens
     * Oefeningen maken : 1 uur
 
 ## Week 2 - XXX uur
+* oefeneingen :
 
 
 Totale duur : XXX uur
