@@ -20,6 +20,14 @@ Domein naam : http://wm-mastering.be
     * Oefeningen maken : 1 uur
 
 ## Week 2 - XXX uur
+* Deel 1
+    * PPT + code van deel 1 nog eens doornemen : 0.5 uur
+    * aanpassen en testen van app.html :0.25 uur
+* Deel 2
+    * code van deel 2 doornemen + aanpassen : 0.45uur (niet duidelijk)
+    * tuto's gekeken over prepared statements (youtube + website) : 1 uur
+        * Heel gied tuto https://www.youtube.com/watch?v=I4JYwRIjX6c&ab_channel=DaniKrossing 
+        * https://www.w3schools.com/php/php_mysql_prepared_statements.asp
 * oefeneingen :
 
 
