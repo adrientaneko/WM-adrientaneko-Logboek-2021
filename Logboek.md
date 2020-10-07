@@ -19,16 +19,17 @@ Domein naam : http://wm-mastering.be
     * Php Tutorials : 1 uur
     * Oefeningen maken : 1 uur
 
-## Week 2 - XXX uur
+## Week 2 - 5.5 uur
 * Deel 1
     * PPT + code van deel 1 nog eens doornemen : 0.5 uur
     * aanpassen en testen van app.html :0.25 uur
 * Deel 2
-    * code van deel 2 doornemen + aanpassen : 0.45uur (niet duidelijk)
+    * code van deel 2 doornemen + aanpassen : 0.75 uur (niet duidelijk)
     * tuto's gekeken over prepared statements (youtube + website) : 1 uur
-        * Heel gied tuto https://www.youtube.com/watch?v=I4JYwRIjX6c&ab_channel=DaniKrossing 
+        * Heel goed tuto https://www.youtube.com/watch?v=I4JYwRIjX6c&ab_channel=DaniKrossing 
         * https://www.w3schools.com/php/php_mysql_prepared_statements.asp
-* oefeneingen :
+* oefeningen maken REST_API + prepared statements : 3 uur
 
+## Week 3 - XXX uur
 
-Totale duur : XXX uur
+# Totale duur : 10,25 uur
