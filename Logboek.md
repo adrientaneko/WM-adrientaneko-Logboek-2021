@@ -22,7 +22,7 @@ Domein naam : http://wm-mastering.be
 ## Week 2 - 5.5 uur
 * Deel 1
     * PPT + code van deel 1 nog eens doornemen : 0.5 uur
-    * aanpassen en testen van app.html :0.25 uur
+    * aanpassen en testen van app.html : 0.25 uur
 * Deel 2
     * code van deel 2 doornemen + aanpassen : 0.75 uur (niet duidelijk)
     * tuto's gekeken over prepared statements (youtube + website) : 1 uur
@@ -30,6 +30,18 @@ Domein naam : http://wm-mastering.be
         * https://www.w3schools.com/php/php_mysql_prepared_statements.asp
 * oefeningen maken REST_API + prepared statements : 3 uur
 
-## Week 3 - XXX uur
+## Week 3 - 4.5 uur
+* Slides overlopen :0.5 uur
+* installatie cordova + aanmaken project : 0.5 uur
+* installatie graddle + androïd studio sdk's : 0.5 uur
+* USB-debugging testen : 0.25 uur
+* Oefening 1 "hello world cordova app" : 0.75 uur
+* OEfening 2 "Uitbreiding" add en delete operaties : 2 uur
+
+## Week 4 - 3.5 uur
+* Slides overlopen :0.5 uur
+* installatie  + aanmaken van F7 cordova project : 1 uur
+* installatie plugins + aanpasingen stap 4 : 0.5 uur
+* oefeningen : 1.5 uur
 
 # Totale duur : 10,25 uur
