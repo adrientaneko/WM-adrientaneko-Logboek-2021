@@ -38,10 +38,23 @@ Domein naam : http://wm-mastering.be
 * Oefening 1 "hello world cordova app" : 0.75 uur
 * OEfening 2 "Uitbreiding" add en delete operaties : 2 uur
 
-## Week 4 - 3.5 uur
+## Week 4 - 9.5 uur
 * Slides overlopen :0.5 uur
 * installatie  + aanmaken van F7 cordova project : 1 uur
 * installatie plugins + aanpasingen stap 4 : 0.5 uur
 * oefeningen : 1.5 uur
+* Opstarten van eigen Cordova app : 6uur
 
-# Totale duur : 10,25 uur
+## Week 5 - 6 uur
+* Project kiezen
+* Brainstorming met teamgenote + aamaken van github repo : 1uur
+* Verder gewerkt aan eigen cordova app : 5uur
+
+## Week 6 - 6.5 uur
+* Slides overlopen :0.25 uur
+* Aanmaken van udacity account + toevoegen van 2 cursussen  : 0.25 uur
+* Verder brainstorming met teamgenote en maken van schetsen : 2 uur
+* Afronden van eigen cordova app : 2 uur
+* Opstarten van Hybride-app project(basis layout) : 2 uur
+
+# Totale duur : 36,75 uur
